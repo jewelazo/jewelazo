@@ -24,3 +24,7 @@
 **gpalominoe@uni.pe**
 
 [<img src='https://blog.hootsuite.com/wp-content/uploads/2025/05/linkedin-for-business-8-620x527.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/giancarlopalominoelescano/)  
+
+![jewelazo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jewelazo&theme=cobalt2&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jewelazo&theme=cobalt2)](https://github.com/jewelazo/github-readme-stats)
