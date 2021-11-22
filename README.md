@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=jewelazo)
+
 
 # Hi there 👋 I'm Giancarlo Palomino Elescano
 - :man_technologist: Full-Stack Web Developer graduated from **[Codeable](https://www.codeable.la/)**
