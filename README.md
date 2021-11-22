@@ -23,7 +23,8 @@
 ## :mailbox: **How to reach me**
 **gpalominoe@uni.pe**
 
-[<img src='https://blog.hootsuite.com/wp-content/uploads/2025/05/linkedin-for-business-8-620x527.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/giancarlopalominoelescano/)  
+[<img src='https://blog.hootsuite.com/wp-content/uploads/2025/05/linkedin-for-business-8-620x527.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/giancarlopalominoelescano/)
+## :abacus: **GitHub Stats**
 
 ![jewelazo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jewelazo&theme=cobalt2&count_private=true)
 
