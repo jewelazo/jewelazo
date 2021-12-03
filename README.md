@@ -35,6 +35,6 @@
 ![jewelazo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jewelazo&theme=cobalt2&count_private=true&style=centerme)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jewelazo&theme=cobalt2)](https://github.com/jewelazo/github-readme-stats)
- 
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jewelazo&theme=cobalt2)]()-->
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jewelazo&hide=css,html&langs_count=5&theme=cobalt2)]()
 </div>
