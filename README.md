@@ -27,6 +27,7 @@
  
 [<img src='https://blog.hootsuite.com/wp-content/uploads/2025/05/linkedin-for-business-8-620x527.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/giancarlopalominoelescano/)
 </div>
+
 ## :abacus: **GitHub Stats**
 
 <div align="center">
