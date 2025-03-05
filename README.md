@@ -23,12 +23,11 @@
 <div align="center">
  
 **giancarlopalominoe@gmail.com**
-
+<a align="center" href="https://giancarlopalominoe.netlify.app/" target="_blank">Portfolio</a>
 [<img src='https://blog.hootsuite.com/wp-content/uploads/2025/05/linkedin-for-business-8-620x527.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/giancarlopalominoelescano/)
 </div>
-<div style="text-align:center">
-<a align="center" href="https://giancarlopalominoe.netlify.app/" target="_blank">Portfolio</a>
-</div>
+
+
  
 ## :abacus: **GitHub Stats**
 
