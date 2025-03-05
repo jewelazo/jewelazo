@@ -8,15 +8,15 @@
 
 ## 🧰 Languages and Tools:
 <p align="center">
- <img src="https://beecrowd.com/wp-content/uploads/2024/04/2023-04-20-Ruby.jpg" alt="ruby" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://i0.wp.com/unaaldia.hispasec.com/wp-content/uploads/2020/10/django-rest-framework.png?w=600&ssl=1" alt="djangorestframework" height="40" style="vertical-align:top; margin:4px">
  <img src="https://www.jasoft.org/Blog/image.axd?picture=/2021/localdb/SQL-Server-logo.png" alt="ruby" height="40" style="vertical-align:top; margin:4px">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="ruby" height="40" style="vertical-align:top; margin:4px">
  <img src="https://www.thoughtco.com/thmb/zrcb1zA4Vi47uULJhJKJdcshBgk=/1024x1024/filters:fill(auto,1)/css3-57b597e85f9b58b5c2b338de.png" alt="ruby" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img2.freepng.es/20180811/fwb/kisspng--5b6f68be63a406.9717291515340279664081.jpg" alt="ruby" height="40" style="vertical-align:top; margin:4px">
-<img src="https://w7.pngwing.com/pngs/782/228/png-transparent-ruby-on-rails-rubygems-amazon-dynamodb-ruby-text-logo-ruby.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="ruby" height="40" style="vertical-align:top; margin:4px">
+<img src="https://beecrowd.com/wp-content/uploads/2024/04/2023-04-20-Ruby.jpg" alt="ruby" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://blog.desdelinux.net/wp-content/uploads/2018/10/postgresql.jpeg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://blog.desdelinux.net/wp-content/uploads/2018/10/postgresql.jpeg" alt="postgresql" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 
