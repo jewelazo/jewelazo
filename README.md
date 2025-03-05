@@ -8,7 +8,7 @@
 
 ## 🧰 Languages and Tools:
 <p align="center">
- <img src="https://img2.freepng.es/20180806/fv/kisspng-python-scalable-vector-graphics-logo-javascript-cl-coderpete-game-development-5b6819307ca155.2506144815335488485105.jpg" alt="ruby" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://beecrowd.com/wp-content/uploads/2024/04/2023-04-20-Ruby.jpg" alt="ruby" height="40" style="vertical-align:top; margin:4px">
  <img src="https://www.jasoft.org/Blog/image.axd?picture=/2021/localdb/SQL-Server-logo.png" alt="ruby" height="40" style="vertical-align:top; margin:4px">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="ruby" height="40" style="vertical-align:top; margin:4px">
  <img src="https://www.thoughtco.com/thmb/zrcb1zA4Vi47uULJhJKJdcshBgk=/1024x1024/filters:fill(auto,1)/css3-57b597e85f9b58b5c2b338de.png" alt="ruby" height="40" style="vertical-align:top; margin:4px">
