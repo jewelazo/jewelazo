@@ -1,6 +1,6 @@
 
 
-# Hi there 👋 I'm Giancarlo Palomino Elescano
+# Hi there 👋 I'm Giancarlo
 - :man_technologist: Full-Stack Web Developer graduated from **[Codeable](https://www.codeable.la/)**
 - :man_student: Bachelor of Mining Engineering  graduated from **[UNI](https://portal.uni.edu.pe/)**
 - ⚡ I enjoy :musical_score::video_game::bicyclist:
