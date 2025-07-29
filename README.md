@@ -22,10 +22,10 @@
 ## :mailbox: **How to reach me**
 <div align="center">
  
-**giancarlopalominoe@gmail.com**
-    <div>
-    <a align="center" href="https://giancarlopalominoe.netlify.app/" target="_blank">Portfolio</a>
-    </div>
+
+  <div>
+  <a align="center" href="https://giancarlopalominoe.netlify.app/" target="_blank">Portfolio</a>
+  </div>
 
     
 [<img src='https://blog.hootsuite.com/wp-content/uploads/2025/05/linkedin-for-business-8-620x527.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/giancarlopalominoelescano/)
